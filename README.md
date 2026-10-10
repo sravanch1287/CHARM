@@ -61,4 +61,4 @@ four-city workflow. [docs/RESULT_MAP.md](docs/RESULT_MAP.md) describes coverage.
 python -m unittest discover -s tests -v
 ```
 
-See [docs/VALIDATION.md](docs/VALIDATION.md) for the executed checks and their scope.
+
