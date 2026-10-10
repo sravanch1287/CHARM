@@ -1,0 +1,85 @@
+{
+  "purpose": "Compact numeric inputs for plotting and table aggregation; no checkpoints, ray data, or per-step training traces",
+  "training_runs": [
+    {
+      "method": "SLAPP",
+      "seed": 1,
+      "training_sha256": "1bca6b8379aae5372bb147eeed2ba6b15e23d2c114ab3986acfc15bfabd6941e"
+    },
+    {
+      "method": "SLAPP",
+      "seed": 2,
+      "training_sha256": "c1a625ea06403019e2bd7784471a1f636fbf3a0c669c975add88d6c1bbe1c375"
+    },
+    {
+      "method": "SLAPP",
+      "seed": 3,
+      "training_sha256": "0b6615a1c162541f32d769641be74ebc83f2f5448a69eeb16edc10a15feddc6b"
+    },
+    {
+      "method": "SLAPP",
+      "seed": 4,
+      "training_sha256": "a8b003bd0a5c1f05bac0d588d68c3cf125ec69bf50d1abb41224cd7e16ba49b4"
+    },
+    {
+      "method": "SLAPP",
+      "seed": 5,
+      "training_sha256": "1ae4cf512b508cd1f13b0744bb9b5bb60e21c73558aac383765f0ef121c36c19"
+    },
+    {
+      "method": "EPA",
+      "seed": 1,
+      "training_sha256": "9b4846d2b3fc38fc099c99f4f4bfeb5aa7a1e64a7ea16cece67044ae2a3054a4"
+    },
+    {
+      "method": "EPA",
+      "seed": 2,
+      "training_sha256": "b34aa4e879779640c71c62e66eb9994da9460453b12de809d8ddcdf67f07698c"
+    },
+    {
+      "method": "EPA",
+      "seed": 3,
+      "training_sha256": "5a406d513e300fe30f1b9a7819dd36a8cb7a3bab5eda8bfad659304304483df3"
+    },
+    {
+      "method": "EPA",
+      "seed": 4,
+      "training_sha256": "2e932f070d0947cea3933e08162130c7aa964ac53067633fc34e7d5d77d1daa2"
+    },
+    {
+      "method": "EPA",
+      "seed": 5,
+      "training_sha256": "b8f3a380c5516a2de0f554fca53ad0a2047874eeb3debcbf0d1dd3440a41ffa3"
+    },
+    {
+      "method": "DPA2",
+      "seed": 1,
+      "training_sha256": "0b6c5c0b4911b83ffea3478c5741cd03379b178516aa49e46578ed28dbae575c"
+    },
+    {
+      "method": "DPA2",
+      "seed": 2,
+      "training_sha256": "dc00c0802a94f2dfd482dda58128b73b03327ec1fbfc05c94335f45fa3d94bed"
+    },
+    {
+      "method": "DPA2",
+      "seed": 3,
+      "training_sha256": "cd041939b1096f934aa1dc27ef45b4dfe5c0b77d8852bbcba643ab2a5a898cca"
+    },
+    {
+      "method": "DPA2",
+      "seed": 4,
+      "training_sha256": "1c6440b8e607f423757a384218eb2cac044a74c071983e5e6c7085bf67e9565e"
+    },
+    {
+      "method": "DPA2",
+      "seed": 5,
+      "training_sha256": "0153bd4916de0761148d3f4db1dd24ee36ec794c7f1899d4fbb5b2b38c0b324a"
+    }
+  ],
+  "files": {
+    "evaluation_means.json": "eea015a645b65544536bf62e48b0dcad1389b320667d79310dc4f5aca0024396",
+    "posttraining_metrics.json": "37157e7e2e5ff127b8dbae6ed086a118fab08b0f34314a62b6120d1d71eb6290",
+    "training_metrics.csv.gz": "958500df5288e6bf8d635aa7730fc0881cbc733d614e88afb24824bf6e5b2ee5"
+  }
+}

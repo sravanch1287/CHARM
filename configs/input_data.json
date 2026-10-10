@@ -1,0 +1,22 @@
+{
+  "file": "pathTable.csv",
+  "sha256": "8acd7098896b2d47a93dd5c5bc7515233aa3a4e0dbbb164e37b4c06396d1f6ff",
+  "cu_slot_txids": [
+    9,
+    1,
+    8,
+    10,
+    5
+  ],
+  "du_rxids": [
+    7,
+    25,
+    4,
+    5,
+    19,
+    30,
+    10,
+    15
+  ],
+  "redistribution_permission": "not established; data not bundled"
+}

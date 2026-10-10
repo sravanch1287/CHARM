@@ -1,0 +1,5 @@
+-r requirements.txt
+scipy>=1.10
+torch>=2.1
+gymnasium>=0.29
+tensorboard>=2.14

@@ -1,0 +1,16 @@
+{
+  "C": 5, "D": 8, "NRF": 3,
+  "episodes": 800, "episode_length": 80,
+  "seeds": [1, 2, 3, 4, 5],
+  "actor_learning_rate": 0.0001, "critic_learning_rate": 0.0001,
+  "post200_lr_factor": 0.1,
+  "ppo_clip": 0.15, "ppo_epochs": 30,
+  "update_interval": 480, "discount": 0.99,
+  "auxiliary_period": 2, "auxiliary_epochs": 6,
+  "entropy_weight": 0.00001, "deploy_logit_clamp": 8,
+  "correction_penalties": {"safety": 50, "nrf": 40, "validity": 20, "movement": 10},
+  "penalty_schedule": "conditional",
+  "standard_ppo": true, "raw_nrf_lagrangian": true,
+  "physical_layer_phase": "MATLAB-compatible",
+  "note": "The preserved training loop records indices 0 through 800, inclusive. Periodic learning-rate decay also remains in the training code."
+}

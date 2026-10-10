@@ -1,0 +1,752 @@
+[
+  {
+    "method": "DPA2",
+    "seed": 1,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 80.09068284711331,
+    "qos_satisfaction": 0.999875,
+    "joint_raw_success": 0.9992500000000001,
+    "nrf_fixes": 0.0015000000000000002,
+    "dus_moved": 0.0015000000000000002
+  },
+  {
+    "method": "DPA2",
+    "seed": 1,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 80.09371429817271,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.9990000000000001,
+    "nrf_fixes": 0.00125,
+    "dus_moved": 0.0017499999999999998
+  },
+  {
+    "method": "DPA2",
+    "seed": 1,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 80.08294278710545,
+    "qos_satisfaction": 0.9997499999999999,
+    "joint_raw_success": 0.9982500000000001,
+    "nrf_fixes": 0.0034999999999999996,
+    "dus_moved": 0.0034999999999999996
+  },
+  {
+    "method": "DPA2",
+    "seed": 1,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 80.08775068366694,
+    "qos_satisfaction": 0.9997187500000001,
+    "joint_raw_success": 0.9982499999999999,
+    "nrf_fixes": 0.0022500000000000003,
+    "dus_moved": 0.0032500000000000003
+  },
+  {
+    "method": "DPA2",
+    "seed": 1,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 80.08486727877295,
+    "qos_satisfaction": 0.9997499999999999,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.002,
+    "dus_moved": 0.0030000000000000005
+  },
+  {
+    "method": "DPA2",
+    "seed": 2,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 80.1029955643542,
+    "qos_satisfaction": 1.0,
+    "joint_raw_success": 0.9990000000000001,
+    "nrf_fixes": 0.00125,
+    "dus_moved": 0.0022500000000000003
+  },
+  {
+    "method": "DPA2",
+    "seed": 2,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 80.08785593099735,
+    "qos_satisfaction": 0.9997812500000001,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.002,
+    "dus_moved": 0.0022500000000000003
+  },
+  {
+    "method": "DPA2",
+    "seed": 2,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 80.10380513461153,
+    "qos_satisfaction": 1.0,
+    "joint_raw_success": 0.99875,
+    "nrf_fixes": 0.002,
+    "dus_moved": 0.0025
+  },
+  {
+    "method": "DPA2",
+    "seed": 2,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 80.09326711081465,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.002,
+    "dus_moved": 0.0030000000000000005
+  },
+  {
+    "method": "DPA2",
+    "seed": 2,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 80.09012182973727,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.002,
+    "dus_moved": 0.0032500000000000003
+  },
+  {
+    "method": "DPA2",
+    "seed": 3,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 80.08789587254486,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.9990000000000001,
+    "nrf_fixes": 0.001,
+    "dus_moved": 0.0025
+  },
+  {
+    "method": "DPA2",
+    "seed": 3,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 80.09056164942554,
+    "qos_satisfaction": 0.99984375,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.0022500000000000003,
+    "dus_moved": 0.0030000000000000005
+  },
+  {
+    "method": "DPA2",
+    "seed": 3,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 80.08771568414751,
+    "qos_satisfaction": 0.9996875,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.0022500000000000003,
+    "dus_moved": 0.0035000000000000005
+  },
+  {
+    "method": "DPA2",
+    "seed": 3,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 80.08783285204522,
+    "qos_satisfaction": 0.9997812500000001,
+    "joint_raw_success": 0.99875,
+    "nrf_fixes": 0.00125,
+    "dus_moved": 0.0025
+  },
+  {
+    "method": "DPA2",
+    "seed": 3,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 80.07320568868037,
+    "qos_satisfaction": 0.9995625000000001,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.0017500000000000003,
+    "dus_moved": 0.0027500000000000003
+  },
+  {
+    "method": "DPA2",
+    "seed": 4,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 65.88403606039849,
+    "qos_satisfaction": 0.86675,
+    "joint_raw_success": 0.9969999999999999,
+    "nrf_fixes": 0.0032500000000000003,
+    "dus_moved": 0.004
+  },
+  {
+    "method": "DPA2",
+    "seed": 4,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 65.90360448058581,
+    "qos_satisfaction": 0.8045312500000001,
+    "joint_raw_success": 0.997,
+    "nrf_fixes": 0.0032500000000000003,
+    "dus_moved": 0.0045000000000000005
+  },
+  {
+    "method": "DPA2",
+    "seed": 4,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 65.90097988427974,
+    "qos_satisfaction": 0.7470625,
+    "joint_raw_success": 0.99625,
+    "nrf_fixes": 0.0045,
+    "dus_moved": 0.00525
+  },
+  {
+    "method": "DPA2",
+    "seed": 4,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 65.89945571769164,
+    "qos_satisfaction": 0.7869375000000001,
+    "joint_raw_success": 0.9954999999999999,
+    "nrf_fixes": 0.005000000000000001,
+    "dus_moved": 0.005750000000000001
+  },
+  {
+    "method": "DPA2",
+    "seed": 4,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 65.90265064134952,
+    "qos_satisfaction": 0.69465625,
+    "joint_raw_success": 0.99775,
+    "nrf_fixes": 0.0030000000000000005,
+    "dus_moved": 0.0035000000000000005
+  },
+  {
+    "method": "DPA2",
+    "seed": 5,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 80.09841599007494,
+    "qos_satisfaction": 1.0,
+    "joint_raw_success": 0.9992500000000001,
+    "nrf_fixes": 0.0007500000000000001,
+    "dus_moved": 0.00125
+  },
+  {
+    "method": "DPA2",
+    "seed": 5,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 80.10017890101929,
+    "qos_satisfaction": 1.0,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.0017499999999999998,
+    "dus_moved": 0.0027500000000000003
+  },
+  {
+    "method": "DPA2",
+    "seed": 5,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 80.0977799771023,
+    "qos_satisfaction": 1.0,
+    "joint_raw_success": 0.9990000000000001,
+    "nrf_fixes": 0.0015000000000000002,
+    "dus_moved": 0.002
+  },
+  {
+    "method": "DPA2",
+    "seed": 5,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 80.09699010310976,
+    "qos_satisfaction": 1.0,
+    "joint_raw_success": 0.99875,
+    "nrf_fixes": 0.0022500000000000003,
+    "dus_moved": 0.0025
+  },
+  {
+    "method": "DPA2",
+    "seed": 5,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 80.10208945050965,
+    "qos_satisfaction": 1.0,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.002,
+    "dus_moved": 0.0030000000000000005
+  },
+  {
+    "method": "EPA",
+    "seed": 1,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 79.3106918416451,
+    "qos_satisfaction": 0.999875,
+    "joint_raw_success": 0.9995,
+    "nrf_fixes": 0.0005,
+    "dus_moved": 0.0007500000000000001
+  },
+  {
+    "method": "EPA",
+    "seed": 1,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 79.31088190644842,
+    "qos_satisfaction": 0.99990625,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.0017499999999999998,
+    "dus_moved": 0.0025
+  },
+  {
+    "method": "EPA",
+    "seed": 1,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 79.30467735206031,
+    "qos_satisfaction": 0.9998124999999999,
+    "joint_raw_success": 0.99875,
+    "nrf_fixes": 0.0015000000000000002,
+    "dus_moved": 0.0025
+  },
+  {
+    "method": "EPA",
+    "seed": 1,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 79.30478234401629,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.9982499999999999,
+    "nrf_fixes": 0.002,
+    "dus_moved": 0.0030000000000000005
+  },
+  {
+    "method": "EPA",
+    "seed": 1,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 79.30293471508135,
+    "qos_satisfaction": 0.9998124999999999,
+    "joint_raw_success": 0.99875,
+    "nrf_fixes": 0.00125,
+    "dus_moved": 0.002
+  },
+  {
+    "method": "EPA",
+    "seed": 2,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 75.06749596827042,
+    "qos_satisfaction": 0.99965625,
+    "joint_raw_success": 0.99725,
+    "nrf_fixes": 0.0027500000000000003,
+    "dus_moved": 0.0027500000000000003
+  },
+  {
+    "method": "EPA",
+    "seed": 2,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 75.16869453675089,
+    "qos_satisfaction": 0.99990625,
+    "joint_raw_success": 0.9967499999999998,
+    "nrf_fixes": 0.0032500000000000007,
+    "dus_moved": 0.0032500000000000007
+  },
+  {
+    "method": "EPA",
+    "seed": 2,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 75.25187738156843,
+    "qos_satisfaction": 0.9997499999999999,
+    "joint_raw_success": 0.9954999999999999,
+    "nrf_fixes": 0.0045000000000000005,
+    "dus_moved": 0.0045000000000000005
+  },
+  {
+    "method": "EPA",
+    "seed": 2,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 75.20231171626706,
+    "qos_satisfaction": 0.9998124999999999,
+    "joint_raw_success": 0.9974999999999998,
+    "nrf_fixes": 0.0025000000000000005,
+    "dus_moved": 0.0025000000000000005
+  },
+  {
+    "method": "EPA",
+    "seed": 2,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 75.26965111757362,
+    "qos_satisfaction": 0.9996875,
+    "joint_raw_success": 0.9957499999999999,
+    "nrf_fixes": 0.00425,
+    "dus_moved": 0.00425
+  },
+  {
+    "method": "EPA",
+    "seed": 3,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 74.19670244826266,
+    "qos_satisfaction": 0.99925,
+    "joint_raw_success": 0.9915,
+    "nrf_fixes": 0.00875,
+    "dus_moved": 0.009000000000000001
+  },
+  {
+    "method": "EPA",
+    "seed": 3,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 74.23456581181586,
+    "qos_satisfaction": 0.9994375000000001,
+    "joint_raw_success": 0.9934999999999999,
+    "nrf_fixes": 0.0072499999999999995,
+    "dus_moved": 0.008
+  },
+  {
+    "method": "EPA",
+    "seed": 3,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 74.23910801585333,
+    "qos_satisfaction": 0.99934375,
+    "joint_raw_success": 0.9932499999999999,
+    "nrf_fixes": 0.0075,
+    "dus_moved": 0.00825
+  },
+  {
+    "method": "EPA",
+    "seed": 3,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 74.26518098732798,
+    "qos_satisfaction": 0.9994375,
+    "joint_raw_success": 0.9942499999999999,
+    "nrf_fixes": 0.006,
+    "dus_moved": 0.006500000000000001
+  },
+  {
+    "method": "EPA",
+    "seed": 3,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 74.22956059407097,
+    "qos_satisfaction": 0.9994375000000001,
+    "joint_raw_success": 0.99625,
+    "nrf_fixes": 0.004,
+    "dus_moved": 0.0045000000000000005
+  },
+  {
+    "method": "EPA",
+    "seed": 4,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 72.1008872319525,
+    "qos_satisfaction": 0.883625,
+    "joint_raw_success": 0.9484999999999999,
+    "nrf_fixes": 0.051750000000000004,
+    "dus_moved": 0.05375
+  },
+  {
+    "method": "EPA",
+    "seed": 4,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 72.09388248544288,
+    "qos_satisfaction": 0.880625,
+    "joint_raw_success": 0.954,
+    "nrf_fixes": 0.04650000000000001,
+    "dus_moved": 0.048499999999999995
+  },
+  {
+    "method": "EPA",
+    "seed": 4,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 72.06566232225065,
+    "qos_satisfaction": 0.8768437500000001,
+    "joint_raw_success": 0.9532499999999999,
+    "nrf_fixes": 0.04725000000000001,
+    "dus_moved": 0.0495
+  },
+  {
+    "method": "EPA",
+    "seed": 4,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 72.08324769569828,
+    "qos_satisfaction": 0.87771875,
+    "joint_raw_success": 0.9547500000000001,
+    "nrf_fixes": 0.046000000000000006,
+    "dus_moved": 0.047
+  },
+  {
+    "method": "EPA",
+    "seed": 4,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 72.07379794969307,
+    "qos_satisfaction": 0.8784062499999998,
+    "joint_raw_success": 0.9672499999999998,
+    "nrf_fixes": 0.0335,
+    "dus_moved": 0.034
+  },
+  {
+    "method": "EPA",
+    "seed": 5,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 75.73433615646204,
+    "qos_satisfaction": 0.99984375,
+    "joint_raw_success": 0.9384999999999999,
+    "nrf_fixes": 0.06199999999999999,
+    "dus_moved": 0.06225
+  },
+  {
+    "method": "EPA",
+    "seed": 5,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 75.73437415776606,
+    "qos_satisfaction": 0.99984375,
+    "joint_raw_success": 0.93675,
+    "nrf_fixes": 0.06425,
+    "dus_moved": 0.06425
+  },
+  {
+    "method": "EPA",
+    "seed": 5,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 75.72053111465961,
+    "qos_satisfaction": 0.9997499999999999,
+    "joint_raw_success": 0.9325000000000001,
+    "nrf_fixes": 0.06849999999999999,
+    "dus_moved": 0.06924999999999999
+  },
+  {
+    "method": "EPA",
+    "seed": 5,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 75.71906750418454,
+    "qos_satisfaction": 0.99971875,
+    "joint_raw_success": 0.93175,
+    "nrf_fixes": 0.0695,
+    "dus_moved": 0.07
+  },
+  {
+    "method": "EPA",
+    "seed": 5,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 75.77569296233553,
+    "qos_satisfaction": 0.9996562499999999,
+    "joint_raw_success": 0.9614999999999999,
+    "nrf_fixes": 0.03925,
+    "dus_moved": 0.04025
+  },
+  {
+    "method": "SLAPP",
+    "seed": 1,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 80.08906254570138,
+    "qos_satisfaction": 0.9998750000000001,
+    "joint_raw_success": 0.9990000000000001,
+    "nrf_fixes": 0.0015000000000000002,
+    "dus_moved": 0.00225
+  },
+  {
+    "method": "SLAPP",
+    "seed": 1,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 80.08802502777357,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.9992500000000001,
+    "nrf_fixes": 0.001,
+    "dus_moved": 0.0017499999999999998
+  },
+  {
+    "method": "SLAPP",
+    "seed": 1,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 80.06197968750055,
+    "qos_satisfaction": 0.9996250000000001,
+    "joint_raw_success": 0.9975,
+    "nrf_fixes": 0.0030000000000000005,
+    "dus_moved": 0.005
+  },
+  {
+    "method": "SLAPP",
+    "seed": 1,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 80.08429496429099,
+    "qos_satisfaction": 0.9997187500000001,
+    "joint_raw_success": 0.998,
+    "nrf_fixes": 0.0022500000000000003,
+    "dus_moved": 0.00375
+  },
+  {
+    "method": "SLAPP",
+    "seed": 1,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 80.0896442605088,
+    "qos_satisfaction": 0.99990625,
+    "joint_raw_success": 0.998,
+    "nrf_fixes": 0.0027500000000000003,
+    "dus_moved": 0.00375
+  },
+  {
+    "method": "SLAPP",
+    "seed": 2,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 75.13571109912486,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.9975,
+    "nrf_fixes": 0.0027500000000000003,
+    "dus_moved": 0.0035000000000000005
+  },
+  {
+    "method": "SLAPP",
+    "seed": 2,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 75.33152940576028,
+    "qos_satisfaction": 0.9997499999999999,
+    "joint_raw_success": 0.9957499999999999,
+    "nrf_fixes": 0.005,
+    "dus_moved": 0.005750000000000001
+  },
+  {
+    "method": "SLAPP",
+    "seed": 2,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 75.20658186103758,
+    "qos_satisfaction": 0.99990625,
+    "joint_raw_success": 0.9954999999999999,
+    "nrf_fixes": 0.00525,
+    "dus_moved": 0.0055000000000000005
+  },
+  {
+    "method": "SLAPP",
+    "seed": 2,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 75.34365189846957,
+    "qos_satisfaction": 0.9999375,
+    "joint_raw_success": 0.9964999999999999,
+    "nrf_fixes": 0.00375,
+    "dus_moved": 0.0045000000000000005
+  },
+  {
+    "method": "SLAPP",
+    "seed": 2,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 75.53196696509082,
+    "qos_satisfaction": 0.9997499999999999,
+    "joint_raw_success": 0.99375,
+    "nrf_fixes": 0.007250000000000001,
+    "dus_moved": 0.0075000000000000015
+  },
+  {
+    "method": "SLAPP",
+    "seed": 3,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 76.98227690049626,
+    "qos_satisfaction": 1.0,
+    "joint_raw_success": 0.9992500000000001,
+    "nrf_fixes": 0.0015000000000000002,
+    "dus_moved": 0.0015000000000000002
+  },
+  {
+    "method": "SLAPP",
+    "seed": 3,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 76.9751694736156,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.99875,
+    "nrf_fixes": 0.0015000000000000002,
+    "dus_moved": 0.0022500000000000003
+  },
+  {
+    "method": "SLAPP",
+    "seed": 3,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 76.97384496668928,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.998,
+    "nrf_fixes": 0.0025,
+    "dus_moved": 0.00375
+  },
+  {
+    "method": "SLAPP",
+    "seed": 3,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 76.9689871939022,
+    "qos_satisfaction": 0.9997187500000001,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.002,
+    "dus_moved": 0.0030000000000000005
+  },
+  {
+    "method": "SLAPP",
+    "seed": 3,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 76.97404601016332,
+    "qos_satisfaction": 0.99990625,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.0022500000000000003,
+    "dus_moved": 0.0030000000000000005
+  },
+  {
+    "method": "SLAPP",
+    "seed": 4,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 65.56449391215048,
+    "qos_satisfaction": 0.86946875,
+    "joint_raw_success": 0.9507500000000002,
+    "nrf_fixes": 0.050249999999999996,
+    "dus_moved": 0.05175
+  },
+  {
+    "method": "SLAPP",
+    "seed": 4,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 65.64446146635795,
+    "qos_satisfaction": 0.8092187500000001,
+    "joint_raw_success": 0.9452499999999999,
+    "nrf_fixes": 0.05750000000000001,
+    "dus_moved": 0.060500000000000005
+  },
+  {
+    "method": "SLAPP",
+    "seed": 4,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 65.64162785554693,
+    "qos_satisfaction": 0.7528437500000001,
+    "joint_raw_success": 0.9532499999999999,
+    "nrf_fixes": 0.049,
+    "dus_moved": 0.0515
+  },
+  {
+    "method": "SLAPP",
+    "seed": 4,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 65.59508994802353,
+    "qos_satisfaction": 0.7927500000000001,
+    "joint_raw_success": 0.9445,
+    "nrf_fixes": 0.0575,
+    "dus_moved": 0.059750000000000004
+  },
+  {
+    "method": "SLAPP",
+    "seed": 4,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 65.69341945728678,
+    "qos_satisfaction": 0.70175,
+    "joint_raw_success": 0.956,
+    "nrf_fixes": 0.044500000000000005,
+    "dus_moved": 0.04650000000000001
+  },
+  {
+    "method": "SLAPP",
+    "seed": 5,
+    "scenario": "Low_Demand",
+    "sum_rate_gbps": 76.84664417554468,
+    "qos_satisfaction": 0.9999687500000001,
+    "joint_raw_success": 0.9990000000000001,
+    "nrf_fixes": 0.0015000000000000002,
+    "dus_moved": 0.0017500000000000003
+  },
+  {
+    "method": "SLAPP",
+    "seed": 5,
+    "scenario": "Balanced",
+    "sum_rate_gbps": 76.8372803368634,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.9992500000000001,
+    "nrf_fixes": 0.00125,
+    "dus_moved": 0.0015000000000000002
+  },
+  {
+    "method": "SLAPP",
+    "seed": 5,
+    "scenario": "High_Demand",
+    "sum_rate_gbps": 76.83144910129798,
+    "qos_satisfaction": 0.99965625,
+    "joint_raw_success": 0.9982500000000001,
+    "nrf_fixes": 0.0027500000000000003,
+    "dus_moved": 0.0034999999999999996
+  },
+  {
+    "method": "SLAPP",
+    "seed": 5,
+    "scenario": "Mixed_stress",
+    "sum_rate_gbps": 76.83167815538881,
+    "qos_satisfaction": 0.99965625,
+    "joint_raw_success": 0.9984999999999999,
+    "nrf_fixes": 0.0025,
+    "dus_moved": 0.0032500000000000003
+  },
+  {
+    "method": "SLAPP",
+    "seed": 5,
+    "scenario": "Extreme_high",
+    "sum_rate_gbps": 76.83861568253327,
+    "qos_satisfaction": 0.9998125,
+    "joint_raw_success": 0.998,
+    "nrf_fixes": 0.0027500000000000003,
+    "dus_moved": 0.00425
+  }
+]

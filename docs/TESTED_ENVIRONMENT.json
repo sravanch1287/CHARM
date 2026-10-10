@@ -1,0 +1,14 @@
+{
+  "python": "3.11.15 | packaged by Anaconda, Inc. | (main, Jun 11 2026, 15:12:53) [MSC v.1942 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "packages": {
+    "gymnasium": "1.3.0",
+    "matplotlib": "3.11.1",
+    "numpy": "2.4.6",
+    "pandas": "3.0.5",
+    "scipy": "1.17.1",
+    "tensorboard": "2.21.0",
+    "torch": "2.13.0+cu130"
+  },
+  "note": "Observed validation environment, not a historical training-time lockfile"
+}

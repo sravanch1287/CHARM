@@ -1,0 +1,607 @@
+{
+  "authority": "User-identified accepted PDF: accepted CHARM manuscript",
+  "sha256": "822728908527343883a4b0ab04932c6dfe4e39a1a33af344d73fff5b88a117bd",
+  "table5": {
+    "sum_rate_gbps": {
+      "EPA": [
+        "75.31",
+        "2.63"
+      ],
+      "DPA2": [
+        "77.25",
+        "6.35"
+      ],
+      "SLAPP": [
+        "74.97",
+        "5.50"
+      ],
+      "SINR_FP": [
+        "75.74",
+        "3.09"
+      ],
+      "SLAPP_ITER": [
+        "74.96",
+        "5.53"
+      ]
+    },
+    "qos_satisfaction": {
+      "EPA": [
+        "97.58",
+        "5.34"
+      ],
+      "DPA2": [
+        "95.68",
+        "9.63"
+      ],
+      "SLAPP": [
+        "95.78",
+        "9.40"
+      ],
+      "SINR_FP": [
+        "97.41",
+        "5.74"
+      ],
+      "SLAPP_ITER": [
+        "95.78",
+        "9.40"
+      ]
+    },
+    "convergence_score": {
+      "EPA": [
+        "0.971",
+        "0.055"
+      ],
+      "DPA2": [
+        "0.956",
+        "0.096"
+      ],
+      "SLAPP": [
+        "0.956",
+        "0.097"
+      ],
+      "SINR_FP": [
+        "0.972",
+        "0.061"
+      ],
+      "SLAPP_ITER": [
+        "0.956",
+        "0.097"
+      ]
+    },
+    "joint_raw_success": {
+      "EPA": [
+        "97.82",
+        "2.57"
+      ],
+      "DPA2": [
+        "99.86",
+        "0.09"
+      ],
+      "SLAPP": [
+        "98.95",
+        "1.88"
+      ],
+      "SINR_FP": [
+        "98.95",
+        "1.88"
+      ],
+      "SLAPP_ITER": [
+        "98.95",
+        "1.88"
+      ]
+    },
+    "nrf_fixes": {
+      "EPA": [
+        "0.022",
+        "0.026"
+      ],
+      "DPA2": [
+        "0.002",
+        "0.001"
+      ],
+      "SLAPP": [
+        "0.011",
+        "0.019"
+      ],
+      "SINR_FP": [
+        "0.011",
+        "0.019"
+      ],
+      "SLAPP_ITER": [
+        "0.011",
+        "0.019"
+      ]
+    },
+    "dus_moved": {
+      "EPA": [
+        "0.023",
+        "0.026"
+      ],
+      "DPA2": [
+        "0.003",
+        "0.001"
+      ],
+      "SLAPP": [
+        "0.012",
+        "0.019"
+      ],
+      "SINR_FP": [
+        "0.012",
+        "0.019"
+      ],
+      "SLAPP_ITER": [
+        "0.012",
+        "0.019"
+      ]
+    }
+  },
+  "table6": [
+    {
+      "method": "EPA",
+      "metrics": {
+        "sum_rate_gbps": [
+          "75.3",
+          "2.6"
+        ],
+        "qos_satisfaction": [
+          "97.6",
+          "5.2"
+        ],
+        "joint_raw_success": [
+          "97.5",
+          "2.9"
+        ],
+        "nrf_fixes": [
+          "0.025",
+          "0.029"
+        ],
+        "dus_moved": [
+          "0.026",
+          "0.030"
+        ]
+      },
+      "scenario": "Low_Demand"
+    },
+    {
+      "method": "DPA2",
+      "metrics": {
+        "sum_rate_gbps": [
+          "77.3",
+          "6.4"
+        ],
+        "qos_satisfaction": [
+          "97.3",
+          "6.0"
+        ],
+        "joint_raw_success": [
+          "99.9",
+          "0.1"
+        ],
+        "nrf_fixes": [
+          "0.002",
+          "0.001"
+        ],
+        "dus_moved": [
+          "0.002",
+          "0.001"
+        ]
+      },
+      "scenario": "Low_Demand"
+    },
+    {
+      "method": "SLAPP",
+      "metrics": {
+        "sum_rate_gbps": [
+          "74.9",
+          "5.5"
+        ],
+        "qos_satisfaction": [
+          "97.4",
+          "5.8"
+        ],
+        "joint_raw_success": [
+          "98.9",
+          "2.1"
+        ],
+        "nrf_fixes": [
+          "0.011",
+          "0.022"
+        ],
+        "dus_moved": [
+          "0.012",
+          "0.022"
+        ]
+      },
+      "scenario": "Low_Demand"
+    },
+    {
+      "method": "EPA",
+      "metrics": {
+        "sum_rate_gbps": [
+          "75.3",
+          "2.6"
+        ],
+        "qos_satisfaction": [
+          "97.6",
+          "5.3"
+        ],
+        "joint_raw_success": [
+          "97.6",
+          "2.9"
+        ],
+        "nrf_fixes": [
+          "0.025",
+          "0.029"
+        ],
+        "dus_moved": [
+          "0.025",
+          "0.029"
+        ]
+      },
+      "scenario": "Balanced"
+    },
+    {
+      "method": "DPA2",
+      "metrics": {
+        "sum_rate_gbps": [
+          "77.3",
+          "6.3"
+        ],
+        "qos_satisfaction": [
+          "96.1",
+          "8.7"
+        ],
+        "joint_raw_success": [
+          "99.8",
+          "0.1"
+        ],
+        "nrf_fixes": [
+          "0.002",
+          "0.001"
+        ],
+        "dus_moved": [
+          "0.003",
+          "0.001"
+        ]
+      },
+      "scenario": "Balanced"
+    },
+    {
+      "method": "SLAPP",
+      "metrics": {
+        "sum_rate_gbps": [
+          "75.0",
+          "5.5"
+        ],
+        "qos_satisfaction": [
+          "96.2",
+          "8.5"
+        ],
+        "joint_raw_success": [
+          "98.8",
+          "2.4"
+        ],
+        "nrf_fixes": [
+          "0.013",
+          "0.025"
+        ],
+        "dus_moved": [
+          "0.014",
+          "0.026"
+        ]
+      },
+      "scenario": "Balanced"
+    },
+    {
+      "method": "EPA",
+      "metrics": {
+        "sum_rate_gbps": [
+          "75.3",
+          "2.6"
+        ],
+        "qos_satisfaction": [
+          "97.5",
+          "5.5"
+        ],
+        "joint_raw_success": [
+          "97.5",
+          "3.0"
+        ],
+        "nrf_fixes": [
+          "0.026",
+          "0.030"
+        ],
+        "dus_moved": [
+          "0.027",
+          "0.031"
+        ]
+      },
+      "scenario": "High_Demand"
+    },
+    {
+      "method": "DPA2",
+      "metrics": {
+        "sum_rate_gbps": [
+          "77.3",
+          "6.3"
+        ],
+        "qos_satisfaction": [
+          "94.9",
+          "11.3"
+        ],
+        "joint_raw_success": [
+          "99.8",
+          "0.1"
+        ],
+        "nrf_fixes": [
+          "0.003",
+          "0.001"
+        ],
+        "dus_moved": [
+          "0.003",
+          "0.001"
+        ]
+      },
+      "scenario": "High_Demand"
+    },
+    {
+      "method": "SLAPP",
+      "metrics": {
+        "sum_rate_gbps": [
+          "74.9",
+          "5.5"
+        ],
+        "qos_satisfaction": [
+          "95.0",
+          "11.0"
+        ],
+        "joint_raw_success": [
+          "98.8",
+          "2.0"
+        ],
+        "nrf_fixes": [
+          "0.013",
+          "0.020"
+        ],
+        "dus_moved": [
+          "0.014",
+          "0.021"
+        ]
+      },
+      "scenario": "High_Demand"
+    },
+    {
+      "method": "EPA",
+      "metrics": {
+        "sum_rate_gbps": [
+          "75.3",
+          "2.6"
+        ],
+        "qos_satisfaction": [
+          "97.5",
+          "5.5"
+        ],
+        "joint_raw_success": [
+          "97.5",
+          "3.0"
+        ],
+        "nrf_fixes": [
+          "0.025",
+          "0.031"
+        ],
+        "dus_moved": [
+          "0.026",
+          "0.031"
+        ]
+      },
+      "scenario": "Mixed_stress"
+    },
+    {
+      "method": "DPA2",
+      "metrics": {
+        "sum_rate_gbps": [
+          "77.3",
+          "6.3"
+        ],
+        "qos_satisfaction": [
+          "95.7",
+          "9.5"
+        ],
+        "joint_raw_success": [
+          "99.8",
+          "0.1"
+        ],
+        "nrf_fixes": [
+          "0.003",
+          "0.001"
+        ],
+        "dus_moved": [
+          "0.003",
+          "0.001"
+        ]
+      },
+      "scenario": "Mixed_stress"
+    },
+    {
+      "method": "SLAPP",
+      "metrics": {
+        "sum_rate_gbps": [
+          "75.0",
+          "5.5"
+        ],
+        "qos_satisfaction": [
+          "95.8",
+          "9.3"
+        ],
+        "joint_raw_success": [
+          "98.7",
+          "2.4"
+        ],
+        "nrf_fixes": [
+          "0.014",
+          "0.025"
+        ],
+        "dus_moved": [
+          "0.015",
+          "0.025"
+        ]
+      },
+      "scenario": "Mixed_stress"
+    },
+    {
+      "method": "EPA",
+      "metrics": {
+        "sum_rate_gbps": [
+          "75.3",
+          "2.6"
+        ],
+        "qos_satisfaction": [
+          "97.5",
+          "5.4"
+        ],
+        "joint_raw_success": [
+          "98.4",
+          "1.8"
+        ],
+        "nrf_fixes": [
+          "0.016",
+          "0.018"
+        ],
+        "dus_moved": [
+          "0.017",
+          "0.019"
+        ]
+      },
+      "scenario": "Extreme_high"
+    },
+    {
+      "method": "DPA2",
+      "metrics": {
+        "sum_rate_gbps": [
+          "77.3",
+          "6.3"
+        ],
+        "qos_satisfaction": [
+          "93.9",
+          "13.6"
+        ],
+        "joint_raw_success": [
+          "99.8",
+          "0.0"
+        ],
+        "nrf_fixes": [
+          "0.002",
+          "0.000"
+        ],
+        "dus_moved": [
+          "0.003",
+          "0.000"
+        ]
+      },
+      "scenario": "Extreme_high"
+    },
+    {
+      "method": "SLAPP",
+      "metrics": {
+        "sum_rate_gbps": [
+          "75.0",
+          "5.5"
+        ],
+        "qos_satisfaction": [
+          "94.0",
+          "13.3"
+        ],
+        "joint_raw_success": [
+          "98.9",
+          "1.8"
+        ],
+        "nrf_fixes": [
+          "0.012",
+          "0.018"
+        ],
+        "dus_moved": [
+          "0.013",
+          "0.019"
+        ]
+      },
+      "scenario": "Extreme_high"
+    }
+  ],
+  "table7": [
+    {
+      "method": "EPA",
+      "metrics": {
+        "sum_rate_gbps": [
+          "75.3",
+          "2.6"
+        ],
+        "qos_satisfaction": [
+          "97.6",
+          "5.4"
+        ],
+        "joint_raw_success": [
+          "97.7",
+          "2.7"
+        ],
+        "nrf_fixes": [
+          "0.023",
+          "0.027"
+        ],
+        "dus_moved": [
+          "0.024",
+          "0.028"
+        ]
+      }
+    },
+    {
+      "method": "DPA2",
+      "metrics": {
+        "sum_rate_gbps": [
+          "77.3",
+          "6.3"
+        ],
+        "qos_satisfaction": [
+          "95.6",
+          "9.8"
+        ],
+        "joint_raw_success": [
+          "99.8",
+          "0.1"
+        ],
+        "nrf_fixes": [
+          "0.002",
+          "0.001"
+        ],
+        "dus_moved": [
+          "0.003",
+          "0.001"
+        ]
+      }
+    },
+    {
+      "method": "SLAPP",
+      "metrics": {
+        "sum_rate_gbps": [
+          "75.0",
+          "5.5"
+        ],
+        "qos_satisfaction": [
+          "95.7",
+          "9.6"
+        ],
+        "joint_raw_success": [
+          "98.8",
+          "2.1"
+        ],
+        "nrf_fixes": [
+          "0.013",
+          "0.022"
+        ],
+        "dus_moved": [
+          "0.014",
+          "0.023"
+        ]
+      }
+    }
+  ]
+}
