@@ -61,4 +61,9 @@ four-city workflow. [docs/RESULT_MAP.md](docs/RESULT_MAP.md) describes coverage.
 python -m unittest discover -s tests -v
 ```
 
+> [!NOTE]
+> **Acknowledgments**
+>
+> The material is based upon work supported by NSF grants 1955561, 2212565, 2323189, 2434113, and 2514415.
+
 
