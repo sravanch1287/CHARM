@@ -45,7 +45,7 @@ python -m charm evaluate --method SLAPP --seed 1 --data-dir "PATH/TO/BOSTON"
 ```
 
 Use `--all` to train/evaluate all three methods and five seeds. Training produces
-new checkpoints locally; none are bundled. See [REPRODUCTION_STEPS.md](REPRODUCTION_STEPS.md)
+new checkpoints locally; none are bundled. See [REPRODUCTION_STEPS.md](RUNNING_EXPERIMENTS.md)
 for the eight-stage workflow and commands for new-run figures and tables.
 
 ## Data and coverage
