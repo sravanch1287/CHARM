@@ -1,4 +1,4 @@
-# Eight reproduction stages
+# Running the Experiments
 
 For immediate published-result plots/tables, install `requirements.txt` and run
 `python -m charm reproduce`. The following workflow generates **new** training
